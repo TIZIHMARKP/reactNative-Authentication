@@ -12,9 +12,9 @@ My react native learning journey, Learned about Authentication in react native, 
 
 ## Screenshot
 
-![React Native Authentication](./assets/screenshots/authentication1.PNG);
-![React Native Authentication](./assets/screenshots/authentication2.PNG);
-![React Native Authentication](./assets/screenshots/firstEmulatorRunning.PNG);
+![React Native Authentication](/assets/screenShots/authentication1.png);
+![React Native Authentication](/assets/screenshots/authentication2.png);
+![React Native Authentication](/assets/screenshots/firstEmulatorRunning.png);
 
 
 ## Technologies Used
